@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gayms.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gayms idle0000" x="0" y="0" width="207" height="282"/>
+	<SubTexture name="gayms right0000" x="207" y="0" width="260" height="286"/>
+	<SubTexture name="gaymsdown0000" x="467" y="0" width="369" height="185"/>
+	<SubTexture name="gaymsleft0000" x="0" y="286" width="214" height="283"/>
+	<SubTexture name="gaymsup0000" x="214" y="286" width="279" height="326"/>
+</TextureAtlas>
